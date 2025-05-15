@@ -139,6 +139,19 @@ VITE_API_URL=https://your-backend-url/api
 - Form validations are included for adding/editing products.  
 - Pagination limits 10 products per page.
 
+- ## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](./src/assets/home.png)
+![Screenshot (317)](https://github.com/user-attachments/assets/2abe1590-d3d6-4209-997a-a59c86dc2581)
+
+### 🧑‍💼 Admin Dashboard
+![Admin Page](./src/assets/admin.png)
+
+### 📦 Product Listing
+![Product Listing](./src/assets/product.png)
+
+
 ---
 
 ## 🤝 Contributing
