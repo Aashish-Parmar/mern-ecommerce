@@ -131,7 +131,7 @@ const ProductList = () => {
   return (
     <div className="p-6 max-w-6xl mx-auto bg-gradient-to-r from-purple-100 via-pink-100 to-yellow-100 min-h-screen">
       <h1 className="text-4xl font-extrabold mb-8 text-center text-purple-700 drop-shadow-lg">
-        🌈 Colorful Product Listing
+        Product Listing
       </h1>
 
       {/* Search and Sort */}
