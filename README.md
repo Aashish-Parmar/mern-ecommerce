@@ -147,10 +147,11 @@ VITE_API_URL=https://your-backend-url/api
 
 ### 🧑‍💼 Admin Dashboard
 ![Admin Page](./src/assets/admin.png)
+![Screenshot (315)](https://github.com/user-attachments/assets/a5f6185d-a362-4d49-ba69-0e6cbd061dd2)
 
 ### 📦 Product Listing
 ![Product Listing](./src/assets/product.png)
-
+![Screenshot (316)](https://github.com/user-attachments/assets/3be089b5-c702-40a5-9c76-20813a8c1a37)
 
 ---
 
